@@ -1,0 +1,11 @@
+*.sketch
+*.xd
+*.fig
+.DS_Store
+
+style-guide.md
+readme-template.md
+design/
+css/my_own_styles/style.scss
+.vscode/
+prepros.config
