@@ -214,6 +214,9 @@
 .main-container .latest-articles {
   background-color: #fafafa;
 }
+.main-container .latest-articles .container h2 {
+  text-indent: 12px;
+}
 .main-container .latest-articles .container .row {
   margin: 0;
 }
